@@ -1,7 +1,10 @@
 spatiotemporal
 ==============================
 
-A short description of the project.
+transformer model to predict spatio temporal events 
+
+1. transformer model adapted from https://github.com/SamLynnEvans/Transformer
+2. transformer hawkes model adapted from https://github.com/SimiaoZuo/Transformer-Hawkes-Process
 
 Project Organization
 ------------
